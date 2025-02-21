@@ -1,1 +1,1 @@
-# Concrete-Strength-Prediction-Platform
+#### Concrete-Strength-Prediction-Platform - A web-based application that predicts concrete strength using machine learning based on input parameters like cement, water, aggregates, and admixtures. The platform features an intuitive UI, a real-time prediction model, and insights for optimizing construction materials. It also highlights key factors for stronger and sustainable construction. Designed with a user-friendly interface, making it suitable for professional and research use, with potential for patenting.
